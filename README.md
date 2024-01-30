@@ -19,7 +19,30 @@ The primary question I'll address is whether there are products in the inventory
 7. How many orders have exceeded the customer's credit limit, resulting in delays of more than 60 days?
 8. How can we use joins across the tables to identify orders that are shipping within one day, in line with our objective of achieving next-day product delivery?
 
+# Solution
+1. Storage Facility Optimization:
+   - Identify current storage locations of items.
+   - Analyze the distribution of inventory across facilities.
+   - Determine if rearranging items could facilitate the elimination of a warehouse.
 
+2. Inventory-Sales Relationship:
+   - Assess the correlation between inventory numbers and sales figures.
+   - Evaluate if inventory counts align with demand for each item.
+   - Identify any discrepancies or inefficiencies in inventory management.
+
+3. Stagnant Inventory Identification:
+   - Identify items with minimal or no movement.
+   - Determine if any products are suitable candidates for discontinuation.
+   -Assess the potential impact of removing certain items from the product line.
+
+
+- Conducted a comprehensive review of inventory levels and storage capacity in each warehouse. Identified redundancies and underutilized facilities. Generated a report listing all warehouses and their respective 
+  inventory levels. Highlighted warehouses with consistently low or inactive inventory.
+-> By investigating the reasons behind the low activity, such as seasonal fluctuations, product demand shifts, or inefficiencies in inventory management. Based on the findings, consider consolidating inventory, 
+   redistributing stock to other facilities, or repurposing the warehouse space.
+-> Analyzed sales data to identify top-performing customers based on revenue generated and order frequency. Developed customer profiles to understand their purchasing behavior, preferences, and buying patterns.
+-> Evaluated the sales performance of each product line based on metrics such as Total sales, Quantity In Stock, revenue generated and Sales to Inventory Ratio  Identified the top-selling products and for 
+   underperforming product lines, conduct market research to identify potential reasons for poor sales performance, such as changing consumer preferences or competitive pressures. 
 
 
 
