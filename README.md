@@ -35,8 +35,7 @@ The primary question I'll address is whether there are products in the inventory
    - Determine if any products are suitable candidates for discontinuation.
    -Assess the potential impact of removing certain items from the product line.
 
-
-- Conducted a comprehensive review of inventory levels and storage capacity in each warehouse. Identified redundancies and underutilized facilities. Generated a report listing all warehouses and their respective 
+- Conducted a comprehensive review of inventory levels and storage capacity in each warehouse. Identified redundancies and underutilized facilities. Generated a table listing all warehouses and their respective 
   inventory levels. Highlighted warehouses with consistently low or inactive inventory. Investigating the reasons behind the low activity, such as seasonal fluctuations, product demand shifts, or inefficiencies in 
   inventory management. 
 - Analyzed sales data to identify top-performing customers based on revenue generated and order frequency. Developed customer profiles to understand their purchasing behavior, preferences, and buying patterns.
