@@ -37,8 +37,8 @@ The primary question I'll address is whether there are products in the inventory
 
 
 - Conducted a comprehensive review of inventory levels and storage capacity in each warehouse. Identified redundancies and underutilized facilities. Generated a report listing all warehouses and their respective 
-  inventory levels. Highlighted warehouses with consistently low or inactive inventory.
-- By investigating the reasons behind the low activity, such as seasonal fluctuations, product demand shifts, or inefficiencies in inventory management. 
+  inventory levels. Highlighted warehouses with consistently low or inactive inventory. Investigating the reasons behind the low activity, such as seasonal fluctuations, product demand shifts, or inefficiencies in 
+  inventory management. 
 - Analyzed sales data to identify top-performing customers based on revenue generated and order frequency. Developed customer profiles to understand their purchasing behavior, preferences, and buying patterns.
 - Evaluated the sales performance of each product line based on metrics such as Total sales, Quantity In Stock, revenue generated and Sales to Inventory Ratio. Identified the top-selling products and for 
   underperforming product lines, conduct market research to identify potential reasons for poor sales performance, such as changing consumer preferences or competitive pressures. 
