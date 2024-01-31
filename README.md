@@ -28,6 +28,7 @@ The main issue we're tackling is whether to shut down one of the current storage
 Asking the right questions is essential for uncovering valuable insights. By posing targeted queries, we can delve deeper into our data and uncover actionable recommendations to enhance our operations.
 
 - Inventory Optimization:
+  
 -> Are there products in the inventory with high stock levels but low sales?
 Yes, Some products may have lots in stock but hardly ever get sold. That's where this SQL query comes in. Identify products with high stock levels and low sales using SQL queries.
 • Implementing targeted marketing campaigns, discounts, or promotions to boost sales of these products can reduce excess inventory. Additionally, consider adjusting pricing strategies or bundling products to stimulate demand and clear stagnant inventory.
