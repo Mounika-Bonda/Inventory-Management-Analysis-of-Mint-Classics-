@@ -29,14 +29,14 @@ Asking the right questions is essential for uncovering valuable insights. By pos
 
 - Inventory Optimization:
   
--> Are there products in the inventory with high stock levels but low sales?
+~ Are there products in the inventory with high stock levels but low sales?
 Yes, Some products may have lots in stock but hardly ever get sold. That's where this SQL query comes in. Identify products with high stock levels and low sales using SQL queries.
 • Implementing targeted marketing campaigns, discounts, or promotions to boost sales of these products can reduce excess inventory. Additionally, consider adjusting pricing strategies or bundling products to stimulate demand and clear stagnant inventory.
 
 ![image](https://github.com/Mounika-Bonda/Mint-Classics-Retail-Analysis/assets/76002392/c86508fc-1a33-4369-88b7-456dd9bdb683)
 
 Warehouse Consolidation:
--> Do we need all the warehouses currently in use?
+~ Do we need all the warehouses currently in use?
 Investigated the necessity of warehouses currently in use and identified those with low or inactive inventory.
 • By reallocateing inventory from underutilized warehouses to more active ones, thereby optimizing storage space and reducing operational costs associated with maintaining unnecessary facilities.
 • Additionally, by understanding which products are housed in warehouses with low sales activity, Mint Classics can tailor their sales and marketing strategies accordingly.
@@ -44,7 +44,7 @@ Investigated the necessity of warehouses currently in use and identified those w
 ![image](https://github.com/Mounika-Bonda/Mint-Classics-Retail-Analysis/assets/76002392/70853365-c009-4748-94e3-3c8245dcb345)
 
 Customer Segmentation:
--> Which valuable customers contributing highest sales and highest number of orders?
+~ Which valuable customers contributing highest sales and highest number of orders?
 Investigated the key contributors to sales and proposes strategies to focus sales efforts on these valuable customers.
 • For instance, they can develop personalized loyalty programs or offer exclusive discounts and promotions to incentivize repeat purchases and foster customer loyalty. Additionally, Mint Classics can enhance the overall customer experience by providing exceptional customer service, proactive communication, and seamless transaction processes.
 • By continuously monitoring customer behavior and preferences, Mint Classics can adapt their sales efforts and marketing strategies to meet the evolving needs of their most influential customers, ultimately driving long-term customer satisfaction and revenue
@@ -52,7 +52,7 @@ Investigated the key contributors to sales and proposes strategies to focus sale
 ![image](https://github.com/Mounika-Bonda/Mint-Classics-Retail-Analysis/assets/76002392/31028334-1093-43ab-92de-688abd40d026)
 
 Product Performance Analysis:
--> How do the various product lines stack up in terms of performance?
+~ How do the various product lines stack up in terms of performance?
 • Products with high sales-to-inventory ratios indicate efficient inventory management and strong demand, while those with lower ratios may require attention to boost sales or consider removal from the product line.
 • Additionally, analyzing total revenue generated allows Mint Classics to assess the profitability of each product line and allocate resources strategically.
 
