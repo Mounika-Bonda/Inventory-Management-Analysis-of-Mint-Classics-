@@ -22,7 +22,7 @@ Mint Classics Company, a renowned retailer specializing in classic model cars an
    - Determine if any products are suitable candidates for discontinuation.
    -Assess the potential impact of removing certain items from the product line.
 
-# Approach
+# Solutions and Recommendations
 The main issue we're tackling is whether to shut down one of the current storage facilities. So, I've identified products with excess inventory, optimized warehouse usage, and adjusted pricing strategies to increase sales. Recognizing valuable customers and evaluating sales team performance will drive efficiency. Analyzing payment trends will improve cash flow management, while assessing product lines aids in portfolio optimization.
 
 Asking the right questions is essential for uncovering valuable insights. By posing targeted queries, we can delve deeper into our data and uncover actionable recommendations to enhance our operations.
