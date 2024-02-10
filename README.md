@@ -1,4 +1,4 @@
-# Data Analysis for Mint Classics Company's Inventory Management
+# Analysis of Mint Classics Company's Inventory Management
 Analyzing data to provide business recommendations related to inventory and potentially closing a storage facility is the goal using MySQL. Mint Classics Company's primary focus is to improve operational efficiency and boost profitability through these measures.
 
 # Project Summary
