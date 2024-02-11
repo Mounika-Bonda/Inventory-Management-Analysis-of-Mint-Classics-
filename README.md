@@ -6,7 +6,7 @@ Mint Classics Company, a renowned retailer specializing in classic model cars an
 # Approach 
 To derive key insights for Mint Classics Inventory Management, we would typically need more detailed data and analysis specific to Mint Classics' operations. Here are some general insights that can be evaluated:
 
-1.**Inventory Holding Costs:** Calculate the costs associated with holding inventory, including storage, insurance, and obsolescence. Identifying opportunities to reduce holding costs can increase profitability.
+1. **Inventory Holding Costs:** Calculate the costs associated with holding inventory, including storage and insurance. Identifying opportunities to reduce holding costs can increase profitability.
 
 2. **ABC Analysis:** Segment Mint Classics' inventory into categories based on value or importance. This can help prioritize inventory management efforts, with a focus on high-value items.
 
