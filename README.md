@@ -25,7 +25,7 @@ To derive key insights for Mint Classics Inventory Management, we would typicall
 
 3. **Lead Time Analysis:** Evaluate the time it takes for Mint Classics to receive inventory once an order is placed. Minimizing lead times can reduce carrying costs and improve customer satisfaction.
 
-4.**Product Vendor Performance:** Assess the reliability and efficiency of Mint Classics' Vendors in delivering inventory. Monitoring Vendor's lead time and quality can help identify areas for improvement.
+4. **Product Vendor Performance:** Assess the reliability and efficiency of Mint Classics' Vendors in delivering inventory. Monitoring Vendor's lead time and quality can help identify areas for improvement.
    
 5. **Demand Forecasting Accuracy:** Measure the accuracy of Mint Classics' demand forecasts compared to actual sales. Improving forecasting accuracy can prevent excess inventory or stockouts.
   
