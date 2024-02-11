@@ -5,6 +5,7 @@ Mint Classics Company, a renowned retailer specializing in classic model cars an
 
 # Data Modeling
 So, I started working to add data modeling to my project. First off, I'm taking a good look at what my project needs – all the different bits of data and how they fit together. Then, I'm sketching out the database schema, kind of like drawing a map of where everything goes.
+![DataModeling](https://github.com/Mounika-Bonda/Mint-Classics-Retail-Analysis/assets/76002392/e45b9dde-8645-4090-8c97-70d868a0a321)
 
 Once I've got that down, I'm diving into normalization, which is all about making sure my data is organized efficiently and doesn't have any unnecessary duplication. And naturally, I'm picking out the best data types for each piece of info – gotta make sure everything fits just right!
 
@@ -18,20 +19,22 @@ Of course, I'm not forgetting to jot down all my thoughts and decisions in some 
 To derive key insights for Mint Classics Inventory Management, we would typically need more detailed data and analysis specific to Mint Classics' operations. Here are some general insights that can be evaluated:
 
 1. **Inventory Holding Costs:** Calculate the costs associated with holding inventory, including storage and insurance. Identifying opportunities to reduce holding costs can increase profitability.
+   ![image](https://github.com/Mounika-Bonda/Mint-Classics-Retail-Analysis/assets/76002392/5d7b7bd3-d9c3-4627-9aa6-2d5d834b38da)
 
-2. **ABC Analysis:** Segment Mint Classics' inventory into categories based on value or importance. This can help prioritize inventory management efforts, with a focus on high-value items.
 
-3. **Lead Time Analysis:** Evaluate the time it takes for Mint Classics to receive inventory once an order is placed. Minimizing lead times can reduce carrying costs and improve customer satisfaction.
+3. **ABC Analysis:** Segment Mint Classics' inventory into categories based on value or importance. This can help prioritize inventory management efforts, with a focus on high-value items.
 
-4. **Product Vendor Performance:** Assess the reliability and efficiency of Mint Classics' Vendors in delivering inventory. Monitoring Vendor's lead time and quality can help identify areas for improvement.
+4. **Lead Time Analysis:** Evaluate the time it takes for Mint Classics to receive inventory once an order is placed. Minimizing lead times can reduce carrying costs and improve customer satisfaction.
+
+5. **Product Vendor Performance:** Assess the reliability and efficiency of Mint Classics' Vendors in delivering inventory. Monitoring Vendor's lead time and quality can help identify areas for improvement.
    
-5. **Demand Forecasting Accuracy:** Measure the accuracy of Mint Classics' demand forecasts compared to actual sales. Improving forecasting accuracy can prevent excess inventory or stockouts.
+6. **Demand Forecasting Accuracy:** Measure the accuracy of Mint Classics' demand forecasts compared to actual sales. Improving forecasting accuracy can prevent excess inventory or stockouts.
   
-6. **Slow-Moving Inventory:** Identify items in Mint Classics' inventory that are slow-moving or obsolete. Implement strategies such as discounting or liquidation to minimize losses.
+7. **Slow-Moving Inventory:** Identify items in Mint Classics' inventory that are slow-moving or obsolete. Implement strategies such as discounting or liquidation to minimize losses.
 
-7. **Product Line Performance** Tracking total quantity sold and revenue generated per product line, serving as key metrics to identify top-performing product lines for strategic optimization and resource allocation.
+8. **Product Line Performance** Tracking total quantity sold and revenue generated per product line, serving as key metrics to identify top-performing product lines for strategic optimization and resource allocation.
 
-8. **Technology Utilization:** Evaluate the use of inventory management technology, such as inventory tracking systems or demand forecasting software. Investing in technology can improve efficiency and accuracy in managing inventory.
+9. **Technology Utilization:** Evaluate the use of inventory management technology, such as inventory tracking systems or demand forecasting software. Investing in technology can improve efficiency and accuracy in managing inventory.
 
 # Solutions and Recommendations
 The main issue we're tackling is whether to shut down one of the current storage facilities. So, I've identified products with excess inventory, optimized warehouse usage, and adjusted pricing strategies to increase sales. Recognizing valuable customers and evaluating sales team performance will drive efficiency. Analyzing payment trends will improve cash flow management, while assessing product lines aids in portfolio optimization.
