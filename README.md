@@ -3,6 +3,17 @@ Mint Classics Company, a renowned retailer specializing in classic model cars an
 
 ~ The objective is to maintain a 24-hour order-to-ship cycle. As a appointed data analyst, I leveraged MySQL Workbench to delve into existing data, profitable opportunities for inventory reduction, and formulate actionable recommendations.
 
+# Data Modeling
+So, I started working to add data modeling to my project. First off, I'm taking a good look at what my project needs – all the different bits of data and how they fit together. Then, I'm sketching out the database schema, kind of like drawing a map of where everything goes.
+
+Once I've got that down, I'm diving into normalization, which is all about making sure my data is organized efficiently and doesn't have any unnecessary duplication. And naturally, I'm picking out the best data types for each piece of info – gotta make sure everything fits just right!
+
+Next, I'm connecting the dots between my tables with foreign keys – super important for keeping everything in line and making sure there aren't any loose ends. And you bet I'm throwing in some indexing to speed up those database searches – nobody's got time to wait around for slow queries! 
+
+Confused about Indexing - When you execute a query that involves the indexed columns, the database can use the index to locate the relevant rows more efficiently, reducing the time required to retrieve the data.
+
+Of course, I'm not forgetting to jot down all my thoughts and decisions in some handy documentation – gotta keep track of everything, right? Finally, I'm rolling out my database in MySQL, setting up those tables, adding in some constraints, and getting everything ready to roll. And that's how I'm getting my project's data all sorted out – one step at a time!
+
 # Approach 
 To derive key insights for Mint Classics Inventory Management, we would typically need more detailed data and analysis specific to Mint Classics' operations. Here are some general insights that can be evaluated:
 
