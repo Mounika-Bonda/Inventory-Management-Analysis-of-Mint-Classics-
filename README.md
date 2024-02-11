@@ -4,7 +4,7 @@ Mint Classics Company, a renowned retailer specializing in classic model cars an
 ~ The objective is to maintain a 24-hour order-to-ship cycle. As a appointed data analyst, I leveraged MySQL Workbench to delve into existing data, profitable opportunities for inventory reduction, and formulate actionable recommendations.
 
 # Approach 
-To derive key insights for Mint Classics Inventory Management, you would typically need more detailed data and analysis specific to Mint Classics' operations, but here are some general insights that could be relevant:
+To derive key insights for Mint Classics Inventory Management, we would typically need more detailed data and analysis specific to Mint Classics' operations. Here are some general insights that can be evaluated:
 
 1.**Inventory Holding Costs:** Calculate the costs associated with holding inventory, including storage, insurance, and obsolescence. Identifying opportunities to reduce holding costs can increase profitability.
 
